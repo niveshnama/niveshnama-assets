@@ -1,0 +1,2 @@
+# niveshnama-assets
+all assets
